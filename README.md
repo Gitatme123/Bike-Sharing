@@ -44,3 +44,6 @@ The purpose of this assignment is to analyze data from NYC Citibikes in order to
     1. A chart that shows the lifecylce of a bike. The average number of people that touch it a day, and how long it is ridden until its serial number no longer records rides.
     2. I would want to see the subscriber repeat ratio. How many times an individual rides in a given month, quarter and year.
     3. I would want to see a visualization for the different months of the year that bikes are utilized. As this analysis required us to create breakdowns by weekday, I think bringing in an analysis by month would be equally as important.
+
+[link to dashboard](https://public.tableau.com/app/profile/david.wiers/viz/Bike-Share-Challenge/NYCBikeSharingStory?publish=yes)
+
