@@ -1,6 +1,5 @@
 # Bike-Sharing
-# Surfs Up Analysis
-Surf and Ice Cream Shop Analysis for our friend W. Any for the location on Oahu
+In order to propose our Bike-Sharing program to investors, we must prepare an analysis for one of our key stakeholders. In this challenge we analyze the vizualizations we've created in order to uncover significance and to answer key questions.
 
 ## Purpose
 ####
@@ -15,7 +14,7 @@ The purpose of this assignment is to analyze data from NYC Citibikes in order to
 2. The 2nd graph we are looking at is a breakdown of users by gender, listing the total as well as the % of total. It is clear that males make up the majority of the users, at 65%. This chart can be used in comparison to the average time a user uses a bike for by gender to determine significance.
 ><img width="274" alt="Screen Shot 2022-04-02 at 4 42 49 PM" src="https://user-images.githubusercontent.com/95602006/161662306-5db8826b-9490-4b48-aa3d-f99fcf7f7dd1.png">
 
-3. The 3rd graph shows us the number of trips a single bike is taken on average during this window of time.
+3. The 3rd graph shows us the number of trips a single bike is taken on average during this window of time. It looks like quite a few bikes aren't used at all. It also looks like a large number of bikes are used quite a bit, but not too many times. 
 ><img width="1131" alt="Screen Shot 2022-04-02 at 4 45 22 PM" src="https://user-images.githubusercontent.com/95602006/161662361-62ecf0bd-8a17-4a31-b2b5-4344ceead2ac.png">
 
 4. The 4th graph shows us check out times for subscribers vs. non-subscribers. The immediate value I see here is that at its peak, there are about 830% more subscribers using the bike at once than non-subscribers. The business must be working well to have that many subscribers, signalling to me that the system is used for more than just tourists. The locals would therefore make up the majority of users.
