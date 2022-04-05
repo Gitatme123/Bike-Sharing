@@ -22,28 +22,24 @@ The purpose of this assignment is to analyze data from NYC Citibikes in order to
 > THis chart shows us
 
 4. The 4th graph
-<img width="1133" alt="Screen Shot 2022-04-02 at 4 43 25 PM" src="https://user-images.githubusercontent.com/95602006/161662313-ee35a9b0-8214-4c13-abc2-7174878cd592.png">
-> This chart shows us
+><img width="1133" alt="Screen Shot 2022-04-02 at 4 43 25 PM" src="https://user-images.githubusercontent.com/95602006/161662313-ee35a9b0-8214-4c13-abc2-7174878cd592.png">
+
 
 5. The 5th graph
-<img width="1131" alt="Screen Shot 2022-04-02 at 4 43 35 PM" src="https://user-images.githubusercontent.com/95602006/161662325-3e4f1688-41b2-41bd-9f3b-9349ee60b3b5.png">
+><img width="1131" alt="Screen Shot 2022-04-02 at 4 43 35 PM" src="https://user-images.githubusercontent.com/95602006/161662325-3e4f1688-41b2-41bd-9f3b-9349ee60b3b5.png">
 > This chart shows us
 
 6. The 6th graph
-<img width="598" alt="Screen Shot 2022-04-02 at 4 43 43 PM" src="https://user-images.githubusercontent.com/95602006/161662337-39596c75-69fa-4568-ab13-ca063affc32a.png">
-> This chart shows us
+><img width="598" alt="Screen Shot 2022-04-02 at 4 43 43 PM" src="https://user-images.githubusercontent.com/95602006/161662337-39596c75-69fa-4568-ab13-ca063affc32a.png">
 
 7. The 6th graph
-<img width="1455" alt="Screen Shot 2022-04-02 at 4 45 10 PM" src="https://user-images.githubusercontent.com/95602006/161662347-84859a7c-1ff9-4de4-8cf7-4a8444166ca8.png">
-> This chart shows us
+><img width="1455" alt="Screen Shot 2022-04-02 at 4 45 10 PM" src="https://user-images.githubusercontent.com/95602006/161662347-84859a7c-1ff9-4de4-8cf7-4a8444166ca8.png">
 
 8. The 6th graph
-<img width="387" alt="Screen Shot 2022-04-02 at 4 45 45 PM" src="https://user-images.githubusercontent.com/95602006/161662383-9605c97b-7d02-421c-9930-c00b27dc4cba.png">
-> This graph shows us
+><img width="387" alt="Screen Shot 2022-04-02 at 4 45 45 PM" src="https://user-images.githubusercontent.com/95602006/161662383-9605c97b-7d02-421c-9930-c00b27dc4cba.png">
 
 9. The 6th graph
-<img width="1297" alt="Screen Shot 2022-04-02 at 4 46 03 PM" src="https://user-images.githubusercontent.com/95602006/161662472-0da183dc-06c2-44ad-8e7a-eb1258bf6ae5.png">
-> This graph shows us
+><img width="1297" alt="Screen Shot 2022-04-02 at 4 46 03 PM" src="https://user-images.githubusercontent.com/95602006/161662472-0da183dc-06c2-44ad-8e7a-eb1258bf6ae5.png">
 
 
 #### High Level Summary
