@@ -14,13 +14,13 @@ The purpose of this assignment is to analyze data from NYC Citibikes in order to
 2. The 2nd graph we are looking at is a breakdown of users by gender, listing the total as well as the % of total. It is clear that males make up the majority of the users, at 65%. This chart can be used in comparison to the average time a user uses a bike for by gender to determine significance.
 ><img width="274" alt="Screen Shot 2022-04-02 at 4 42 49 PM" src="https://user-images.githubusercontent.com/95602006/161662306-5db8826b-9490-4b48-aa3d-f99fcf7f7dd1.png">
 
-3. The 3rd graph shows us the number of trips a single bike is taken on average during this window of time. It looks like quite a few bikes aren't used at all. It also looks like a large number of bikes are used quite a bit, but not too many times. 
+3. The 3rd graph shows us the number of trips a single bike is taken on average during this window of time. It looks like quite a few bikes aren't used at all. It also looks like a large number of bikes are used quite a bit, but not too many times. It looks like on average a bike is used about 300 times, but we would need more supporting data to draw significance from this.
 ><img width="1131" alt="Screen Shot 2022-04-02 at 4 45 22 PM" src="https://user-images.githubusercontent.com/95602006/161662361-62ecf0bd-8a17-4a31-b2b5-4344ceead2ac.png">
 
 4. The 4th graph shows us check out times for subscribers vs. non-subscribers. The immediate value I see here is that at its peak, there are about 830% more subscribers using the bike at once than non-subscribers. The business must be working well to have that many subscribers, signalling to me that the system is used for more than just tourists. The locals would therefore make up the majority of users.
 ><img width="1133" alt="Screen Shot 2022-04-02 at 4 43 25 PM" src="https://user-images.githubusercontent.com/95602006/161662313-ee35a9b0-8214-4c13-abc2-7174878cd592.png">
 
-5. The 5th graph shows us the average trip time broken down by gender.
+5. The 5th graph shows us the average trip time broken down by gender. It is clear Men use the bikes for a longer amount of time than women do.
 ><img width="1131" alt="Screen Shot 2022-04-02 at 4 43 35 PM" src="https://user-images.githubusercontent.com/95602006/161662325-3e4f1688-41b2-41bd-9f3b-9349ee60b3b5.png">
 
 6. The 6th graph shows us trips by weekday by hour.
